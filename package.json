@@ -1,0 +1,20 @@
+{
+  "name": "3j_pam2_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm i -g  @angular/core @angular/cli @ionic/cli && ng version && ionic info",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THPL28/3j_pam2_2021.git"
+  },
+  "author": "Tiago Henrique Pereira Looze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/THPL28/3j_pam2_2021/issues"
+  },
+  "homepage": "https://github.com/THPL28/3j_pam2_2021#readme"
+}
